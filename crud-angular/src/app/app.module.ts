@@ -19,7 +19,8 @@ import {AppRoutingModule} from "./app-routing.module";
     BrowserAnimationsModule,
     MatToolbarModule,
     HttpClientModule,
-    RouterModule
+    RouterModule,
+
   ],
   providers: [],
   bootstrap: [AppComponent]
